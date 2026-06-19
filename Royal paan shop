@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Royal Paan Shop</title>
+<style>
+body{margin:0;font-family:Arial;background:#08160f;color:white}
+header{position:sticky;top:0;background:#0b301a;padding:15px;text-align:center;color:#d4af37;font-size:32px;font-weight:bold}
+.hero{padding:100px 20px;text-align:center;background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.7));}
+.btn{background:#d4af37;color:#08160f;padding:12px 22px;text-decoration:none;border-radius:30px;font-weight:bold}
+section{padding:40px 20px}
+h2{color:#d4af37;text-align:center}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px}
+.card{background:#123523;border:1px solid #d4af37;border-radius:15px;overflow:hidden}
+.card img{width:100%;height:250px;object-fit:cover}
+.card h3,.card p{padding:10px}
+.review,.box{background:#123523;padding:15px;border-radius:12px;margin:10px 0}
+footer{text-align:center;padding:20px;background:#031008}
+.whatsapp{position:fixed;right:15px;bottom:15px;background:#25D366;color:white;padding:15px;border-radius:50%;text-decoration:none}
+</style>
+</head>
+<body>
+<header>Royal Paan Shop</header>
+
+<div class="hero">
+<h1>शाही स्वाद, राजसी अंदाज़</h1>
+<p>Dharmendra Prajapati द्वारा संचालित</p>
+<a class="btn" href="https://wa.me/919415970125">WhatsApp Order</a>
+</div>
+
+<section>
+<h2>Premium Paan Varieties</h2>
+<div class="grid">
+<div class="card"><img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAA backstage_data_shortened_for_readability ... ">
+<h3>शाही मघई पान (Shahi Maghai Paan)</h3>
+<p>बनारस की प्राचीन परंपरा से प्रेरित, असली चांदी के वर्क, चुनिंदा गुलकंद और कश्मीरी केसर से सुसज्जित। यह केवल एक पान नहीं, बल्कि एक शाही अनुभव है।</p>
+</div>
+<div class="card"><img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAA backstage_data_shortened_for_readability ... ">
+<h3>नवाबी ड्राई फ्रूट पान (Nawabi Dry Fruit Paan)</h3>
+<p>काजू, बादाम, पिस्ता और भुने हुए मगज के बारीक टुकड़ों के साथ एक समृद्ध और क्रंची स्वाद। शाही दावतों की शान बढ़ाने के लिए विशेष रूप से तैयार।</p>
+</div>
+<div class="card"><img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAA backstage_data_shortened_for_readability ... ">
+<h3>सिग्नेचर चॉकलेट पान (Signature Chocolate Paan)</h3>
+<p>पारंपरिक मीठे पान और डार्क बेल्जियम चॉकलेट का एक आधुनिक और अनूठा मेल। युवाओं और चॉकलेट प्रेमियों की पहली पसंद।</p>
+</div>
+</div>
+</section>
+
+<section style="background:#0b301a">
+<h2>ग्राहक समीक्षाएँ (Testimonials)</h2>
+<div class="review">
+<p><strong>"लाजवाब स्वाद!"</strong> - बनारस में ऐसा शुद्ध और प्रीमियम स्वाद मैंने पहले कभी नहीं चखा। असली मघई पत्ते का मज़ा ही कुछ और है। — राहुल शर्मा</p>
+</div>
+<div class="review">
+<p><strong>"शादियों के लिए बेस्ट"</strong> - हमने अपनी फैमिली वेडिंग के लिए रॉयल पान शॉप को बुक किया था। सभी मेहमानों ने पान की बहुत तारीफ की। — वर्मा जी</p>
+</div>
+</section>
+
+<section>
+<h2>हमसे संपर्क करें (Contact & Catering)</h2>
+<div class="box">
+<p>📍 <strong>पता:</strong> कबीरचौरा (Kabirchaura), वाराणसी, उत्तर प्रदेश</p>
+<p>📞 <strong>फ़ोन/WhatsApp:</strong> +91 9415970125</p>
+<p>✨ हम शादियों, पार्टियों और विशेष अवसरों के लिए प्रीमियम लाइव पान काउंटर और कस्टमाइज्ड कैटरिंग सेवाएं भी प्रदान करते हैं।</p>
+</div>
+</section>
+
+<footer>
+<p>&copy; 2026 Royal Paan Shop | Designed for Dharmendra Prajapati</p>
+</footer>
+
+<a class="whatsapp" href="https://wa.me/919415970125">💬</a>
+</body>
+</html>
+          
